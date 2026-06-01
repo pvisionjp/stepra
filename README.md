@@ -16,6 +16,8 @@
 
 ## Release Notes
 
+- 1.1.2 (2026/06/01)
+  - Refined messages.
 - 1.1.1 (2026/06/01)
   - Updated to ensure A and B are exclusive ORed.
 - 1.1.0 (2026/06/01)
