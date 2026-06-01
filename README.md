@@ -16,6 +16,8 @@
 
 ## Release Notes
 
+- 1.1.1 (2026/06/01)
+  - Updated to ensure A and B are exclusive ORed.
 - 1.1.0 (2026/06/01)
   - Added "Allow actions to initiator only" flag in the Settings. Cards created in 1.0.0 ignores this flag.
 - 1.0.0 (2026/05/22)
