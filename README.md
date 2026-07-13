@@ -16,6 +16,8 @@
 
 ## Release Notes
 
+- 1.2.3 (2026/07/13)
+  - Updated the settings UI for Workflow and Action tabs.
 - 1.1.2 (2026/06/01)
   - Refined messages.
 - 1.1.1 (2026/06/01)
