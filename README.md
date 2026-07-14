@@ -16,7 +16,9 @@
 
 ## Release Notes
 
-- 1.2.3 (2026/07/13)
+- 1.2.0 (2026/07/14)
+  - Increased the max number of board members for the Free plan to 9.
+- 1.1.3 (2026/07/13)
   - Updated the settings UI for Workflow and Action tabs.
 - 1.1.2 (2026/06/01)
   - Refined messages.
