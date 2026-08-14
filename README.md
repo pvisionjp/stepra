@@ -16,6 +16,11 @@
 
 ## Release Notes
 
+- 1.3.0 (2026/08/15)
+  - Supports multiple workflows
+  - Supports approval by managers and delegates
+  - Detects changes to the "Description" field
+  - Removed member limits
 - 1.2.0 (2026/07/14)
   - Increased the max number of board members for the Free plan to 9.
 - 1.1.3 (2026/07/13)
