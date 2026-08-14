@@ -16,7 +16,7 @@
 
 ## Release Notes
 
-- 1.3.0 (2026/08/15)
+- 1.3.0 (2026/08/14)
   - Supports multiple workflows
   - Supports approval by managers and delegates
   - Detects changes to the "Description" field
