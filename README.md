@@ -16,6 +16,9 @@
 
 ## Release Notes
 
+- 1.3.2 (2026/08/16)
+  - Added Help tab to access documents
+  - Logs event for the card initialization
 - 1.3.0 (2026/08/14)
   - Supports multiple workflows
   - Supports approval by managers and delegates
