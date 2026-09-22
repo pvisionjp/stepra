@@ -16,11 +16,13 @@
 
 ## Release Notes
 
+- 1.6.0 (2026/09/23)
+  - Allows to specify an action executor for every step
 - 1.5.0 (2026/09/11)
   - Supports "OR" for approver types of Individual and Role.
 - 1.4.0 (2026/09/03)
   - Added Role as an approver type
-  - Added Assing by initiator as an approver type
+  - Added Assign by initiator as an approver type
 - 1.3.2 (2026/08/16)
   - Added Help tab to access documents
   - Logs event for the card initialization
