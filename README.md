@@ -15,22 +15,23 @@
   - email: power-up-support at pvison.jp
 
 ## Release Notes
-
+- 1.6.1 (2026/10/02)
+  - Applied minor UI improvement.
 - 1.6.0 (2026/09/23)
-  - Allows to specify an action executor for every step
+  - Allows to specify an action executor for every step.
 - 1.5.0 (2026/09/11)
   - Supports "OR" for approver types of Individual and Role.
 - 1.4.0 (2026/09/03)
-  - Added Role as an approver type
-  - Added Assign by initiator as an approver type
+  - Added Role as an approver type.
+  - Added Assign by initiator as an approver type.
 - 1.3.2 (2026/08/16)
-  - Added Help tab to access documents
-  - Logs event for the card initialization
+  - Added Help tab to access documents.
+  - Logs event for the card initialization.
 - 1.3.0 (2026/08/14)
   - Supports multiple workflows
-  - Supports approval by managers and delegates
-  - Detects changes to the "Description" field
-  - Removed member limits
+  - Supports approval by managers and delegates.
+  - Detects changes to the "Description" field.
+  - Removed member limits.
 - 1.2.0 (2026/07/14)
   - Increased the max number of board members for the Free plan to 9.
 - 1.1.3 (2026/07/13)
