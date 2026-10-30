@@ -15,6 +15,8 @@
   - email: power-up-support at pvison.jp
 
 ## Release Notes
+- 1.6.2 (2026/10/31)
+  - Applied minor UI improvement.
 - 1.6.1 (2026/10/02)
   - Applied minor UI improvement.
 - 1.6.0 (2026/09/23)
