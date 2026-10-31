@@ -15,6 +15,8 @@
   - email: power-up-support at pvison.jp
 
 ## Release Notes
+- 1.6.3 (2026/11/01)
+  - Supports adding a parent org to allow to add the top level org.
 - 1.6.2 (2026/10/31)
   - Applied minor UI improvement.
 - 1.6.1 (2026/10/02)
