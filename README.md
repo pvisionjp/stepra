@@ -15,6 +15,8 @@
   - email: power-up-support at pvison.jp
 
 ## Release Notes
+- 1.8.0 (2026/11/13)
+  - Support loading a sample workflow.
 - 1.7.0 (2026/11/01)
   - Supports adding a parent org to allow to add the top level org.
 - 1.6.2 (2026/10/31)
